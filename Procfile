@@ -1,1 +1,1 @@
-web: gunicorn pallbot-elliott.wsgi --log-file -
+web: gunicorn pallbot.wsgi --log-file -
